@@ -21,7 +21,7 @@ In the pillar on the right, operations teams manage deployed applications and in
 
 The two teams are collaborating through a foundational platform (Docker containers) that provides a separation of concerns as a contract, while greatly improving the two teams' collaboration in the application life cycle. The developers own the container contents, its operating environment, and the container interdependencies, whereas the operations teams take the built images along with the manifest and runs them in their orchestration system.
 
-## Challenges in application life cycle when using Docker.
+## Challenges in application life cycle when using Docker
 
 There are many reasons that will increase the number of containerized applications in the upcoming years, and one of these reasons is the creation of applications based on microservices.
 
